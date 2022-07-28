@@ -1,0 +1,100 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+}
+
+nav{
+    border: 1px solid rgba(237,237,237,255);
+
+}
+
+.main{
+    height: 94vh;
+}
+
+
+
+.d-flex{
+    padding: 10px 10px 10px 10px;
+    border: 1px solid rgba(237,237,237,255);
+}
+
+a{
+    text-decoration: none;
+}
+
+.item{
+    border: 1px solid rgba(237,237,237,255);
+    padding: 10px 0 10px 0;
+}
+
+h1{
+    margin-top: 30px;
+}
+
+
+
+.form-group{
+    padding: 10px 300px 15px 20px;
+}
+
+.title{
+    border-radius: 5px;
+    border: 2px solid rgba(237,237,237,255);
+}
+
+.card{
+    margin-top: 20px;
+}
+
+.test{
+    margin: 15px;
+}
+
+.dropdown-btn {
+    text-decoration: none;
+    color: #818181;
+    border: none;
+    background: none;
+    padding: 0;
+    color: #0d6efd;
+  }
+  
+
+  .dropdown-container {
+    display: none;
+    background-color: #f8f9fa;
+    padding-left: 8px;
+    
+  }
+
+  .item-dropdown{
+    display: flex;
+    text-align: center;
+  }
+
+  i{
+    text-align: center;
+    padding-top: 5px;
+  }
+
+  .page{
+    border: none;
+  }
+
+  .info a{
+    padding: 20px;
+    margin-top: 100px;
+  }
+
+  .input-group{
+    width: 300px;
+    text-align: right;
+    margin-left: 10px;
+  }
+  
+  .card-header{
+  display: flex;
+   height: 60px;
+  }
+  

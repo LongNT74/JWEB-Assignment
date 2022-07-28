@@ -1,0 +1,44 @@
+body{
+
+    text-align: center;
+
+ 
+    background-color: #e2e2e2;
+}
+form{
+    text-align: left;
+}
+.main{
+    background-color: white;
+    width: 400px;
+    
+}
+.error-text {
+	color: red;
+}
+.form-group{
+    margin-bottom: 20px;
+}
+
+.btn-primary{
+    width: 100%;
+    background-color: rgba(92,184,92,255);
+    margin-bottom: 20px;
+}
+
+a{
+    text-decoration: none;
+    
+}
+
+.form{
+    padding: 10px;
+}
+
+h4{
+    background-color: rgba(245,245,245,255);
+    max-width: 100%;
+    text-align: left;
+    padding: 10px 0 10px 10px;
+}
+
